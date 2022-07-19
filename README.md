@@ -1,11 +1,8 @@
-### Hi there 👋
 
-
-**Temiyoluwa/Temiyoluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my technical skill I'm Data Analysis 
+- 🔭 I’m currently working on building my technical skill in Data Analysis 
 - 🌱 I’m currently learning Data Analysis from the NG30 Days of Learning 
 - 👯 I’m looking to collaborate on anything Data Analysis and Projects 
 - 🤔 I’m looking for help with breaking down technical concepts  
