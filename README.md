@@ -2,11 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my technical skill in Data Analysis 
-- 🌱 I’m currently learning Data Analysis from the NG30 Days of Learning 
-- 👯 I’m looking to collaborate on anything Data Analysis and Projects 
-- 🤔 I’m looking for help with breaking down technical concepts  
-- 💬 Ask me about my learning journey(it's going to be great)
-- 😄 Pronouns: (He,Him,His)
-- ⚡ Fun fact: I've never been to Europe
+- 🔭 Hi, I'm Olawoyin Praise
+- 🌴 I’m a Data Analyst  
+- 👯 I’m looking to collaborate on anything Data Analysis and Projects with tools like SQL, PYTHON, POWER BI and EXCEL
+- 🍁 In my free time, I take a walk in nature
+- 💬 On this Github page you'll find a collection of my projects and resources showing my technical skills and abilities.
+- ⚡ Connect with me on Linkedin via: https://www.linkedin.com/in/praise-olawoyin-4bb206247
 
