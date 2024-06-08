@@ -1,5 +1,4 @@
 
-
 - 🔭 Hi, I'm Olawoyin Praise
 - 🌴 I’m a Data Analyst  
 - 👯 I’m looking to collaborate on anything Data Analysis and Projects with tools like SQL, PYTHON, POWER BI and EXCEL
